@@ -1,13 +1,23 @@
 <h3 align="center">Machine Learning | Data Scientist </h3>
 
-<!-- Social Media Information-->
+<!-- Social Media Information-->  
 <p align="center">
-<a href="https://www.linkedin.com/in/nb-bhatt/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a> 
-<a href="https://www.kaggle.com/nbbhatt" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nb_bhatt/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-</p>
-</p>
-
+   <a href="https://www.linkedin.com/in/nb-bhatt/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+   <a href="nbbhatt07@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>  
+  <a href="https://www.kaggle.com/nbbhatt" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  </a>  
+ <a href="https://www.instagram.com/nb_bhatt/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  </p>
+  
+  
+  
 
 <p align="center">
   <em>
