@@ -110,8 +110,8 @@
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
   </a>
    
-   <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+   <a href="https://www.anaconda.com/" target="_blank">
+    <img alt="anaconda" src="https://img.shields.io/badge/Anaconda-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   </a>
    
    <a href="https://jupyter.org/" target="_blank">
