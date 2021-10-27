@@ -15,9 +15,6 @@
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
   </p>
-  
-  
-  
 
 <p align="center">
   <em>
@@ -110,4 +107,12 @@
 <a href="https://www.flask.com/">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-2C2D72?style=for-the-badge&logo=flask&logoColor=white">
   </a>
-  
+   
+<br>
+   <h3>Activity Map</h3><br>
+ <a href="https://github.com/NitishBhatt07/"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NitishBhatt07&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<Br>
+
+
+   
+
