@@ -6,7 +6,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
    <a href="nbbhatt07@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D00000?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>  
   <a href="https://www.kaggle.com/nbbhatt" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=Kaggle&logoColor=white">
