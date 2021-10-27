@@ -26,6 +26,7 @@
 ✔ Callme: ***Nitin*** or ***Nitish*** 😊 <br>
 ✔ I’m currently pursuing my B.tech in **Computer Science** branch.<br>
 ✔ I’m currently learning about **machine learning** **deep learning** and other **Data Science** stuffs.🥰<br>
-✔ I’m looking for any internship and job to kick start my career and love to work with any **Open - Source data science projects**<br>
+✔ I’m looking for any internship and job to kick start my career.
+✔ Love to work with any **Open - Source data science projects**<br>
 ✔ I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
