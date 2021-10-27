@@ -109,16 +109,24 @@
   </a>
    <br> 
    
- <h2>Git Activeness</h2><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NitishBhatt07&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=NitishBhatt07&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-</p>
-<br><br>
+   </div>
+   
+ <br> <h2 align="center">Github Stats</h2><br>
+   
+[![Nitish Bhatt github stats](https://github-readme-stats.vercel.app/api?username=NitishBhatt07&show_icons=true&theme=tokyonight)](https://github.com/NitishBhatt07/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NitishBhatt07&layout=compact&theme=tokyonight)](https://github.com/NitishBhatt07/github-readme-stats)
 
+ <br> <h2 align="center">Github Contribution Graph</h2><br>
  <a href="https://github.com/NitishBhatt07/"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NitishBhatt07&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <Br>
    
-   </div>
+   
+   <!--
+   <h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{NitishBhattO7}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+-->
+
+
+
 
 
    
