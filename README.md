@@ -1,4 +1,4 @@
-<h3 align="center">Machine Learning | Data Scientist </h3>
+<h2 align="center"><b>Machine Learning | Data Scientist </b></h2>
 
 <!-- Social Media Information-->  
 <p align="center">
@@ -107,11 +107,18 @@
 <a href="https://www.flask.com/">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-2C2D72?style=for-the-badge&logo=flask&logoColor=white">
   </a>
+   <br> 
    
-<br>
-   <h3>Activity Map</h3><br>
+ <h2>Git Activeness</h2><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NitishBhatt07&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=NitishBhatt07&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+</p>
+<br><br>
+
  <a href="https://github.com/NitishBhatt07/"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NitishBhatt07&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <Br>
+   
+   </div>
 
 
    
