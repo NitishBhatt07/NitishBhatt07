@@ -12,7 +12,7 @@
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
   </a>  
  <a href="https://www.instagram.com/nb_bhatt/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-D00000?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
   </p>
 
