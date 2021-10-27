@@ -9,7 +9,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>  
   <a href="https://www.kaggle.com/nbbhatt" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=Kaggle&logoColor=white">
   </a>  
  <a href="https://www.instagram.com/nb_bhatt/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-D00000?style=for-the-badge&logo=HackerRank&logoColor=white">
