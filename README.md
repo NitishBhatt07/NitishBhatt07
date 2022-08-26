@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Nitish Bhatt a <b>pursuring my B.Tech</b> graduation from <a href="http://www.gbpec.ac.in/"> <b>Govind Ballabh Pant Institute of Engineering & Technology</b>, Pauri Garhwal</a>. <br>
+    Hello, I am Nitish Bhatt and <b>pursuring my B.Tech</b> graduation from <a href="http://www.gbpec.ac.in/"> <b>Govind Ballabh Pant Institute of Engineering & Technology</b>, Pauri Garhwal</a>. <br>
     <b>a passionate self-learner</b> and love the Data Science most. </b>always looking to find patterns of which are hidden in the data.
   </em> 
   <br>
