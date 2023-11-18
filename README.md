@@ -29,13 +29,12 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***Nitin*** or ***Nitish*** 😊 <br>
-✔ I’m currently pursuing my B.tech in **Computer Science** branch.<br>
+✔ Completed my B.tech in **Computer Science** branch in 2023.<br>
 ✔ I’m currently learning about **machine learning** **deep learning** and other **Data Science** stuffs.🥰<br>
 ✔ I’m looking for any internship and job to kick start my career.<br>
 ✔ Love to work with any **Open - Source data science projects**<br>
 ✔ I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br>
  
-
 
 
 <div align="center">
