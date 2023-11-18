@@ -1,4 +1,4 @@
-<h2 align="center"><b>Machine Learning | Data Scientist </b></h2>
+<h2 align="center"><b>Machine Learning | Data Science </b></h2>
 
 <!-- Social Media Information-->  
 <p align="center">
