@@ -1,4 +1,4 @@
-<h2 align="center"><b>Django | Machine Learning | Data Science </b></h2>
+<h2 align="center"><b>Python Developer | Machine Learning | ASP.net </b></h2>
 
 <!-- Social Media Information-->  
 <p align="center">
